@@ -56,6 +56,10 @@ CSV → Bronze (Delta) → Silver (Cleaned) → Gold (Aggregated)
 ### Job Execution
 ![Job](job_success.png)
 
+### Output
+![Output](output_visualization.png)
+
+
 ## Key Features
 - Explicit schema definition
 - Delta Lake with overwriteSchema handling
