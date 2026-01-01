@@ -17,7 +17,18 @@ The pipeline follows a **Medallion Architecture**:
 - GitHub
 
 ## Data Source
-UK Land Registry – Price Paid Data (2025 sample)
+
+This project uses public data from the UK government:
+
+- **Dataset:** UK Land Registry – Price Paid Data  
+- **Publisher:** HM Land Registry  
+- **Coverage:** England & Wales (London subset used)  
+- **Link:** https://www.gov.uk/government/collections/price-paid-data  
+- **License:** Open Government Licence (OGL)
+
+The raw dataset is **not included in this repository**.  
+Only schemas and transformation logic are provided.
+
 
 ## Pipeline Architecture
 CSV → Bronze (Delta) → Silver (Cleaned) → Gold (Aggregated)
