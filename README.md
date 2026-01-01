@@ -33,16 +33,16 @@ CSV → Bronze (Delta) → Silver (Cleaned) → Gold (Aggregated)
 ## Sample Outputs
 
 ### Bronze Table
-![Bronze](screenshots/bronze_table_preview.png)
+![Bronze](bronze_table_preview.png)
 
 ### Silver Table
-![Silver](screenshots/silver_table_preview.png)
+![Silver](silver_table_preview.png)
 
 ### Gold Table
-![Gold](screenshots/gold_table_preview.png)
+![Gold](gold_table_preview.png)
 
 ### Job Execution
-![Job](screenshots/job_success.png)
+![Job](job_success.png)
 
 ## Key Features
 - Explicit schema definition
