@@ -20,12 +20,13 @@ The pipeline follows a **Medallion Architecture**:
 
 This project uses public data from the UK government:
 
-- **Dataset:** UK Land Registry – Price Paid Data  
+- **Dataset:** UK Land Registry – Price Paid Data for the year 2025 
 - **Publisher:** HM Land Registry  
 - **Coverage:** England & Wales (London subset used)  
-- **Link:** https://www.gov.uk/government/collections/price-paid-data  
+- **Link:** https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 - **License:** Open Government Licence (OGL)
 
+Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0.
 The raw dataset is **not included in this repository**.  
 Only schemas and transformation logic are provided.
 
