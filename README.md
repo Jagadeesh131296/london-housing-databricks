@@ -64,4 +64,3 @@ CSV → Bronze (Delta) → Silver (Cleaned) → Gold (Aggregated)
 
 ## Author
 Jagadeesh Jothi Selvaraj
-London, UK
